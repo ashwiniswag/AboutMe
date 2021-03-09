@@ -119,12 +119,14 @@ a:hover{
 	padding: 20px;
 	height: 180px;
 	width: 180px;
+	border-radius: 100%;
 }
 .s2{
 	float: right;
 	padding: 20px;
 	height: 180px;
 	width: 180px;
+	border-radius: 100%;
 }
 
 .intro{
